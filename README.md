@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I’m looking to collaborate<br>on a language learning app<br>powered by AI.<br><br>I’m currently learning<br>the Rust programming language.<br><br>I’m working on a<br>Tic Tac Toe game AI bot.<br><br>Feel free to ask me<br>about computer science!<br><br>
+<br>I’m looking to collaborate<br>on a blockchain coding AI<br>powered by ICP <br><br>I’m currently learning<br>the Rust programming language.<br><br>I’m working on a<br>A Transformer<br><br>Feel free to ask me<br>about computer science!<br><br>
 
 
 ## 🌐 Socials:
